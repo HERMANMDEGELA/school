@@ -1,4 +1,4 @@
-<?
+<?php
 //db_connection.php
 $conn=mysqli_connect('localhost','root', '', 'schoold');
 
